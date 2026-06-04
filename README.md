@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**himanshudev28/himanshudev28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# Hi 👋, I'm Himanshu Singh
+# Hi 👋, I'm Himanshu Singh
 
 ### Full Stack Developer | React & Next.js Developer | Java Programmer
 
@@ -196,6 +183,3 @@ Cloud Technologies
 > "First solve the problem, then write the code."
 
 ⭐ Thanks for visiting my profile!
-
-- ⚡ Fun fact: ...
--->
