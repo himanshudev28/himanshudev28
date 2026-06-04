@@ -131,9 +131,9 @@ Modern Restaurant Website
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshudev28\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=himanshudev28&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudev28\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himanshudev28&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=himanshudev28\&theme=github-dark-blue)
 
